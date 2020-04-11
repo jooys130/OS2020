@@ -6,4 +6,6 @@
 자기소개
 
 이름 : 주연수  
-나이 : 21살
+나이 : 21살  
+학교 : Hanyang University Erica  
+학과 : Division of Computer Science
